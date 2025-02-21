@@ -1,0 +1,7 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+.env
+docker-compose.yaml
